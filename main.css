@@ -1,0 +1,14 @@
+.ser{
+    background-color: rgb(90, 204, 204);
+    text-align: center;
+    
+}
+
+.servece{
+    float: left;
+    background-color: wheat;
+    width: 33.33%;
+}
+.clearfix{
+    clear: left;
+}
